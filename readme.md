@@ -35,10 +35,11 @@ Requirements:
 - https://react.dev/
 - https://tailwindcss.com/
 - https://tailwindcss.com/docs/installation/framework-guides
+- https://reactrouter.com/en/main/routers/create-browser-router
 
 ```jsx
   
-  git clone
+  git clone https://github.com/bitAlison/React-Samples.git
   npm install
   npm run start
   or
